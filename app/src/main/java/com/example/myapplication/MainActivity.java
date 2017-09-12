@@ -5,7 +5,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 
 public class MainActivity extends AppCompatActivity {
-    public final static String EXTRA_MESSAGE = "com.example.myfirstapp.MESSAGE";
+    public final static String EXTRA_MESSAGE = "com.example.myapplication.MainActivity";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
